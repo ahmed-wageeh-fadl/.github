@@ -2,7 +2,7 @@
 
 Welcome to the **WinCC OA Hub** – a public repository that provides practical tools, helpers, and ready-to-use examples to make development with **SIMATIC WinCC OA** easier, faster, and more effective.
 
----
+---  
 
 ## 🔍 Why we do this
 
